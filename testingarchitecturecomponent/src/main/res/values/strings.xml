@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestingArchitectureComponent</string>
+    <string name="popular_movies">Popular movies</string>
+    <string name="release_date">Release date</string>
+</resources>
